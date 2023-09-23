@@ -25,4 +25,16 @@
 
 ## set_name2txt.py
 #### 改測試文件名的 test.txt，用於更改測試內容
-#### (change the yolo t)
+#### (change the yolo test.txt)
+
+## txt2xml.py
+#### 將txt 檔轉成 xml檔
+#### (convert labeling txt file to xml file)
+
+## video_to_frames.py and  videocap.py
+#### 將影片的每幀儲存成照片
+#### (split video to frames)
+
+## xml2txt.py
+#### 將xml 檔轉成 txt檔
+#### (convert labeling xml file to txt file)
